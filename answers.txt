@@ -1,0 +1,11 @@
+ABCDEDCA                  
+Fred                     
+ABCDEACA                 
+Lucie
+ABCACDCA
+Mary
+BBCDEBCA
+Cavin
+BBAAEDCE
+Morris
+BBCDEDBA
